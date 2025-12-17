@@ -1,4 +1,4 @@
-# Unsupervised Anomaly Detection using Convolutional Autoencoder
+# Unsupervised Anomaly Detection
 
 ## Overview
 This project implements **unsupervised anomaly detection** using a **Convolutional Autoencoder (CAE)** on the **CIFAR-10** dataset.  
